@@ -20,8 +20,8 @@ print('JO')
 sleep(1)
 print('KEN')
 sleep(1)
-print('PÔ')
-sleep(1)
+print('PO')
+sleep(0.25)
 # Comandos para quando o usuário ganha e que mostra a opção dele e a do bot (pedra, papel ou tesoura)
 if escolha == 1 and botescolha == 3:
     print('''Parabéns! Você venceu! Eu escolhi tesoura e você
