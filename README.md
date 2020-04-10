@@ -1,2 +1,3 @@
-# Desafios Python Curso em Video
- Todos os desafios feitos do curso de python do canal Curso em Vídeo.
+# Desafios de Python - Curso em Vídeo
+----
+ Estou postando minhas resoluções dos desafios que fiz do curso de Python, no canal **Curso em Vídeo**.
