@@ -13,4 +13,15 @@ n7 = n * 7
 n8 = n * 8
 n9 = n * 9
 n10 = n * 10
-print(f'{cores["azul"]}============{cores["limpo"]}\n{cores["ciano"]}{n} x  1{cores["limpo"]} = {cores["roxo"]}{n1}{cores["limpo"]}\n{cores["ciano"]}{n} x  2{cores["limpo"]} = {cores["roxo"]}{n2}{cores["limpo"]}\n{cores["ciano"]}{n} x  3{cores["limpo"]} = {cores["roxo"]}{n3}{cores["limpo"]}\n{cores["ciano"]}{n} x  4{cores["limpo"]} = {cores["roxo"]}{n4}{cores["limpo"]}\n{cores["ciano"]}{n} x  5{cores["limpo"]} = {cores["roxo"]}{n5}{cores["limpo"]}\n{cores["ciano"]}{n} x  6{cores["limpo"]} = {cores["roxo"]}{n6}{cores["limpo"]}\n{cores["ciano"]}{n} x  7{cores["limpo"]} = {cores["roxo"]}{n7}{cores["limpo"]}\n{cores["ciano"]}{n} x  8{cores["limpo"]} = {cores["roxo"]}{n8}{cores["limpo"]}\n{cores["ciano"]}{n} x  9{cores["limpo"]} = {cores["roxo"]}{n9}{cores["limpo"]}\n{cores["ciano"]}{n} x 10{cores["limpo"]} = {cores["roxo"]}{n10}{cores["limpo"]}\n{cores["azul"]}============{cores["limpo"]}')
+print(f'{cores["azul"]}============{cores["limpo"]}\n'
+      f'{cores["ciano"]}{n} x  1{cores["limpo"]} = {cores["roxo"]}{n1}{cores["limpo"]}\n'
+      f'{cores["ciano"]}{n} x  2{cores["limpo"]} = {cores["roxo"]}{n2}{cores["limpo"]}\n'
+      f'{cores["ciano"]}{n} x  3{cores["limpo"]} = {cores["roxo"]}{n3}{cores["limpo"]}\n'
+      f'{cores["ciano"]}{n} x  4{cores["limpo"]} = {cores["roxo"]}{n4}{cores["limpo"]}\n'
+      f'{cores["ciano"]}{n} x  5{cores["limpo"]} = {cores["roxo"]}{n5}{cores["limpo"]}\n'
+      f'{cores["ciano"]}{n} x  6{cores["limpo"]} = {cores["roxo"]}{n6}{cores["limpo"]}\n'
+      f'{cores["ciano"]}{n} x  7{cores["limpo"]} = {cores["roxo"]}{n7}{cores["limpo"]}\n'
+      f'{cores["ciano"]}{n} x  8{cores["limpo"]} = {cores["roxo"]}{n8}{cores["limpo"]}\n'
+      f'{cores["ciano"]}{n} x  9{cores["limpo"]} = {cores["roxo"]}{n9}{cores["limpo"]}\n'
+      f'{cores["ciano"]}{n} x 10{cores["limpo"]} = {cores["roxo"]}{n10}{cores["limpo"]}\n'
+      f'{cores["azul"]}============{cores["limpo"]}')
