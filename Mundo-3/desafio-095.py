@@ -45,6 +45,6 @@ while True:
         print('Opção inválida! ', end='')
     else:
         print(f'   LEVANTAMENTO DO JOGADOR {jogadores[busc]["nome"].upper()}')
-        for g in range(0, len(jogadores[busc]["gols"])):
-            print(f'   -> Na {g+1}ª partida, {jogadores[busc]["nome"]} fez {jogadores[busc]["gols"][g]} gols')
+        for p, g in enumerate(jogadores[busc]['gols']):
+            print(f'   -> Na {p+1}ª partida, {jogadores[busc]["nome"]} fez {g} gols')
         print('=' * 56)
