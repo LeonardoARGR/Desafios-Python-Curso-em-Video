@@ -13,9 +13,9 @@ ou de cursos de outros lugares e plataformas. Minhas soluções não são as mel
 ## Desafios Completos
 Mundo | Desafios | Desafios Completos
 :---:|:---:|:---:
-Mundo 1 | 1 - 35 | 1 - 35
-Mundo 2 | 36 - 71 | 36 - 71
-Mundo 3 | 72 - 114 | 72 - 89
+Mundo 1 | 001 - 035 | 001 - 035
+Mundo 2 | 036 - 071 | 036 - 071
+Mundo 3 | 072 - 114 | 072 - 089
 ## Links
 [**Canal do Curso em Vídeo**](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
 
