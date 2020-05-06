@@ -15,7 +15,7 @@ Mundo | Desafios | Desafios Completos
 :---:|:---:|:---:
 Mundo 1 | 001 - 035 | 001 - 035
 Mundo 2 | 036 - 071 | 036 - 071
-Mundo 3 | 072 - 114 | 072 - 095
+Mundo 3 | 072 - 114 | 072 - 100
 ## Links
 [**Canal do Curso em Vídeo**](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
 
